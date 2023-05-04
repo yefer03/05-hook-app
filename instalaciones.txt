@@ -1,0 +1,6 @@
+CARPETA 09 useContext
+
+SE INSTALA yarn add react-router-dom@6 para trabajar con BrowserRouter
+el BrowserRouter se importa así en el main
+import { BrowserRouter } from "react-router-dom";
+
